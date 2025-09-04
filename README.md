@@ -65,7 +65,7 @@ I’m a **Staff DevOps Engineer & Site Reliability Engineer** with 20+ years of 
 
 ## 📫 Connect with Me  
 - 📧 [horacio.leon@gmail.com](mailto:horacio.leon@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/) _(add your link here)_  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/horacioleonencina) 
 - 🌍 Based in Rio de Janeiro, Brazil  
 
 ---
